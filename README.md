@@ -45,7 +45,7 @@ pip install -r requirements.txt
 📍 Enter start coordinates (decimal or DMS), or leave empty to use IP location: 34.642139, 50.879444
 ✅ Start location (Decimal): 34.642139, 50.879444
 ✅ Start location (DMS): 34°38'31.7"N 50°52'46.0"E
-📏 Enter distance in meters: 5000
-🎯 Random road point (Decimal): 34.09579294271814 -118.29828779601446
-🎯 Random road point (DMS): 34°5'44.85"N 118°17'53.84"W
+📏 Enter distance in meters: 2000
+🎯 Random road point (Decimal): 34.6238126 50.8758402
+🎯 Random road point (DMS): 34°37'25.73"N 50°52'33.02"E
 ``` 
